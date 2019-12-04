@@ -10,7 +10,6 @@ fn main() {
             totalfuel += fuel;
             mass = fuel;
         }
-        
     }
     println!("{}", totalfuel);
 }
